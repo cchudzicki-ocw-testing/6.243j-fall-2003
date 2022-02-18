@@ -22,19 +22,19 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Take-Home Test 1 ([PDF]({{< baseurl >}}/resources/t1_6243_2003))
+Take-Home Test 1 ({{< resource_link e29f8910-85e7-7d45-bd9c-b032d6cf5fd1 "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/t1sol_6243_2003))
+({{< resource_link 50dbc16a-b855-7fbb-a8b2-70442a55cb58 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Take-Home Test 2 ([PDF]({{< baseurl >}}/resources/t2_6243_2003))
+Take-Home Test 2 ({{< resource_link 91aeb0fd-cbfc-127b-a569-6d4283c1f1dd "PDF" >}})
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/t2sol_6243_2003))
+({{< resource_link f03b7d3e-6b11-f3c6-a44c-bf93b3d1ba95 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
