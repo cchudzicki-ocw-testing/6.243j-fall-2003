@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: 9108ddf9-8118-b770-d2fb-fb081e651bbd
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
