@@ -81,7 +81,7 @@ Problem Set 5 ({{% resource_link d3af478e-643c-1c37-567a-89f423804e78 "PDF" %}}
 ({{% resource_link b83fff9f-dbb2-03dc-8045-2b193e4894ef "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-hw5\_4\_6243\_2003.m ([M](./resolveuid/c399b34bb2ae6b9fa91bbd9efb4843e0))
+hw5\_4\_6243\_2003.m ({{% resource_link "c399b34b-b2ae-6b9f-a91b-bd9efb4843e0" "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -93,7 +93,7 @@ Problem Set 6 ({{% resource_link 2148abf8-bad0-1382-1169-10e18afae611 "PDF" %}}
 ({{% resource_link 6ba05039-f958-83d9-cf94-481a2830fe1c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-hw6\_3\_6243\_2003.m ([M](./resolveuid/9d12bfa0966d83559e4ea441959bef26))
+hw6\_3\_6243\_2003.m ({{% resource_link "9d12bfa0-966d-8355-9e4e-a441959bef26" "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -105,7 +105,7 @@ Problem Set 7 ({{% resource_link 07036ca8-b2da-26ff-fdaa-cfc0a742d71d "PDF" %}}
 ({{% resource_link cef26e5d-7701-1f71-66ad-9a5b879c9d9c "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-hw7\_1\_6243\_2003.m ([M](./resolveuid/e3a43d6b53618aeae6970cde3e1fc0ca))
+hw7\_1\_6243\_2003.m ({{% resource_link "e3a43d6b-5361-8aea-e697-0cde3e1fc0ca" "M" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
